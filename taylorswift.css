@@ -61,3 +61,15 @@ h1{
 	color: white;
 	text-align: center; 
 }
+@media (min-width:300px) and (max-width: 600px){
+	pre{
+		text-align: left;
+		font-size: 15px;
+	}
+
+	.heading{
+		padding: 70px;
+		font-size: 40px;
+	}
+
+}
